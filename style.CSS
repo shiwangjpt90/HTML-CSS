@@ -1,0 +1,88 @@
+body {
+  font-family: 'Times New Roman';
+  font-size: 14px;
+  background-color: blue;
+
+}
+
+.zero img {
+  margin-right: 150px;
+  float: inline-end;
+  position: relative;
+  display: flex;
+  height: 300px;
+  top: -150px;
+  
+}
+
+.image img {
+  float: right;
+  position: relative;
+  top: -184px;
+  right: -8px;
+  display: flex;
+  height: 100px;
+  margin-top: 33px;
+  background-color: blue;
+
+}
+
+.one {
+  margin-top: 10px;
+  margin-left: 2px;
+  text-align: justify;
+  font-family: Calibri;
+  font-size: 80px;
+  color: orange;
+  font-weight: bolder ;
+}
+
+.two {
+  font-family: Calibri;
+  font-size: 80px;
+  color: #ffffff;
+  margin-top: -20px;
+
+}
+
+.three {
+  margin-left: 2px;
+  text-align: justify;
+  line-height: 19px;
+  font-family: Calibri;
+  font-size: 80px;
+  color: #ffffff;
+  margin-top: 23px;
+}
+
+button {
+  margin-top: 80px;
+  border-radius: 5px;
+  height: 40px;
+  width: 150px;
+  background-color: #ffffff;
+  color: blue;
+  margin-left: 40px;
+  border-color: blue;
+  font-weight: bolder;
+  font-size: 18px;
+
+}
+
+.four {
+  margin-top: 225px;
+  text-align: justify;
+  line-height: 9px;
+  font-family: Calibri;
+  font-size: 20px;
+  margin-bottom: 40px;
+  color: #ffffff;
+  margin-left: 40px;
+}
+.chuu{
+  margin-top: 150px;
+  padding-left: 35px;
+  width: fit-content;
+
+
+}
